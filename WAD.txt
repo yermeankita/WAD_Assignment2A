@@ -1,0 +1,6 @@
+Name:Ankita Yerme 
+Branch:IT
+Class:TE
+Roll no:3301075
+Sub:WAD
+Description:this is file of wad assignment
